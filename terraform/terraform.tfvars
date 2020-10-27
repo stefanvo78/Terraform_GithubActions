@@ -1,2 +1,2 @@
-location       = "westus2"
-prefix         = "tf"
+location    = "westus2"
+prefix      = "tf"

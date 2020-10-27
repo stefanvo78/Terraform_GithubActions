@@ -9,7 +9,7 @@ variable "admin_username" {
 variable "admin_password" {
   type        = string
   description = "Password must meet Azure complexity requirements"
-   default     = "Password123!"
+  default     = "Password123!"
 }
 
 variable "prefix" {
